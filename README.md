@@ -1,4 +1,4 @@
-# Hi there, I'm [Sakthimohan]! 👋
+# Hi there, I'm Sakthimohan! 👋
 
 ### 👨‍💻 Web Developer | 📊 Data Analytics Enthusiast
 
